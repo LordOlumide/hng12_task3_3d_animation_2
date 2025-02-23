@@ -25,7 +25,6 @@ flutter:
 
   assets:
     - assets/3d_models/
-    - assets/animations/
   #   - images/a_dot_ham.jpeg
 
   # fonts:
