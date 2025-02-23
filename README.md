@@ -11,10 +11,9 @@ A project that uses flutter to display and animate 3d models.
 
 ## 📸 ScreenShots
 
-| Light                                                       |
-|-------------------------------------------------------------|
-| <img src="assets/screenshots/home_light.jpg" width="300">   |
-| <img src="assets/screenshots/detail_light.jpg" width="300"> |
+| Light                                                    |
+|----------------------------------------------------------|
+| <img src="assets/screenshot.jpg" width="300">            |
 
 
 ## Setup
